@@ -4,7 +4,7 @@
 title: Hey What!?
 
 # Short description of your site
-description: The mindless ramblings of a middle-aged Pakimerican man
+description: The mindless ramblings of a middle-aged Pakimerican dad
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -71,7 +71,7 @@ social-network-links:
   email: "someone@example.com"
   facebook: deanattali
   github: waquraishi
-  twitter: @wquraishi
+  twitter: "@wquraishi"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
