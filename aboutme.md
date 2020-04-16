@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why do you wanna listen to my silly rants and raves
+subtitle: Why do you wanna listen to my silly rants and raves?
 ---
-
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
