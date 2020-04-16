@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd wanna listen to my silly rants and raves
+subtitle: Why do you wanna listen to my silly rants and raves
 ---
 
 My name is Inigo Montoya. I have the following qualities:
