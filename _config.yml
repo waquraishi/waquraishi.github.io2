@@ -25,6 +25,7 @@ navbar-links:
     - Jekyll Generator: "https://jekyllrb.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"    
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  Search: "search"
  # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
