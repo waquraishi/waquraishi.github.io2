@@ -30,12 +30,12 @@
     const resultsArray = findResults(this.value, pages);
     const html = resultsArray.map(item => {
       return `
-        <li class="item  item--result">
-          <article class="article  typeset">
-            <h4><a href="${item.url}">${item.title}</a></h4>
-            <p>${item.excerpt}</p>
-          </article>
-        </li>`;
+          <article class="post-preview">
+            <h2 class="post-title"><a href="${item.url}">${item.title}</a></h2>
+            <div class="post-entry-container">
+              <div class="post-entry">${item.excerpt}</div>
+            </div>
+          </article>`;
     }).join('');
     if ((resultsArray.length == 0) || (this.value == '')) {
       resultsList.innerHTML = `<p>Sorry, nothing was found</p>`;
