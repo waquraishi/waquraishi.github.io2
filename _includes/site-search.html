@@ -38,7 +38,9 @@
           </article>`;
     }).join('');
     if ((resultsArray.length == 0) || (this.value == '')) {
-      resultsList.innerHTML = `<p>Sorry, nothing was found</p>`;
+      resultsList.innerHTML = `<article class="post-preview"><div class="post-entry-container">
+                                <div class="post-entry">Sorry, nothing was found</div>
+                              </div></article>`;
     } else {
       resultsList.innerHTML = html;
     }
