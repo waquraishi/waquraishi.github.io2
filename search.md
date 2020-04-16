@@ -1,6 +1,7 @@
 ---
+layout: page
 title: Search
-excerpt: "Search for a page or post you're looking for"
+subtitle: "Search for a page or post you're looking for"
 css: css/search.css
 ---
 
