@@ -1,7 +1,10 @@
 # project
-_site
-.sass-cache
-.vagrant
+# ignore everything
+*
+
+# but not ignore
+!_site/*
+
 
 # general
 .DS_Store
