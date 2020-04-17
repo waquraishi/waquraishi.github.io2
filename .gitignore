@@ -1,9 +1,4 @@
 # project
-# ignore everything
-*
-
-# but not ignore
-!_site/*
 
 
 # general
