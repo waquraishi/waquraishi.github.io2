@@ -72,9 +72,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+#  email: "someone@example.com"
   facebook: 
-  github: #
+#  github: #
   twitter: "@wquraishi"
 #  reddit: yourname
   linkedin: waseem-quraishi-52a1363
@@ -262,6 +262,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-youtube
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
