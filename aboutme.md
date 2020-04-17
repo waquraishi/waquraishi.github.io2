@@ -4,7 +4,7 @@ title: About me
 subtitle: Why do you wanna listen to my silly rants and raves?
 ---
 My name is Waseem and I live in Richmond, VA.  I'm a passionate software engineer, devoted husband and 
-father to 3 wonderful kids.  I have the following qualities:
+father to 3 wonderful kids.  I have the following *snowflake* qualities:
 
 - I rock a killer beard
 - Lost over 80 pounds doing intermittent fasting

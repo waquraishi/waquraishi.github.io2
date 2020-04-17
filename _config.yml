@@ -25,7 +25,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Jekyll Generator: "https://jekyllrb.com/"
-    - Learn markdown: "http://www.markdowntutorial.com/"    
+    - Learn markdown: "https://www.markdownguide.org/basic-syntax/"    
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   Search: "search"
  # Author's home: "http://deanattali.com"
